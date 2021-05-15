@@ -2,7 +2,7 @@
 
 Chicken 🐤
 
-this project has been created to practice redux, its contains the followinf projects
+this project has been created to practice redux, its contains the following projects
 
 ## Counter
 
